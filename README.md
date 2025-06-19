@@ -1,2 +1,3 @@
-# affiongs-nlp-project-3-vibecheck-ai
-End-to-end NLP pipeline for festivals reviews
+# VibeCheck AI (Project 3)
+
+End-to-end NLP pipeline for festival reviews.
